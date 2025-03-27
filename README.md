@@ -1,7 +1,8 @@
 # 🚀 DBot - The next generation of all-in-one DEX Bot
 ## Follow, copy, limit, sniper, track... we're making DeFi easier
 
-👉 **[![click Here to start Trading](https://img.shields.io/badge/Sign_Up-blue)](https://dbotx.com/?ref=83357810)**
+[Visit DBotX](https://dbotx.com/?ref=83357810) [![Signup](https://img.shields.io/badge/Signup-orange)](https://dbotx.com/?ref=83357810)
+
 
 ![DBot Banner](https://cdn.dbotx.com/image/defi_page_index_img_1.webp)
 
